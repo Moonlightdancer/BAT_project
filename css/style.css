@@ -1,0 +1,45 @@
+body {
+    padding: 0px:
+    margin: 0px;
+    border: 0px;
+}
+
+header #branding {
+    font-size: 40px;
+    font-family: chalkduster;
+    text-align: center;
+    background-color: rgb(238, 232, 224);
+    height: 250px;
+    width: 100%;
+    padding-top: 20px;
+  }
+
+.links-header li {  
+    display:inline;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+
+.links-header a:hover {
+    color: red;
+    font-weight: bold;
+}
+
+.links-header a {
+    text-decoration: none;
+}
+
+.front-photo {
+    background:url('../img/LPT_19/LPT_front_fot.jpg') 0 -200px;
+    height: 330px;
+    width: 100%;
+}
+
+.front-photo .front-photo-title {
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    margin-top:2px;
+    line-height: 600px;
+}
+
